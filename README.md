@@ -20,12 +20,10 @@ A little script to make a man in the middle attack easily. You will find a conso
 
 
 ## Installation
-Go to the mid_script repo and clone ![sslstrip](https://github.com/moxie0/sslstrip) and ![dns2proxy](https://github.com/LeonardoNve/dns2proxy) repo. 
+Go to the mid_script directory and run *install.py*. That clone ![sslstrip](https://github.com/moxie0/sslstrip) and ![dns2proxy](https://github.com/LeonardoNve/dns2proxy) repo if you don't have them. 
 ```sh
 git clone https://github.com/wilfriedaugeard/mid_script
-cd mid_script/
-git clone https://github.com/moxie0/sslstrip
-git clone https://github.com/LeonardoNve/dns2proxy
+cd mid_script/ ; python3 install.py
 ```
 
 ## Interface
