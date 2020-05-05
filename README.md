@@ -2,7 +2,7 @@
   <img alt="mid_script" src="https://github.com/wilfriedaugeard/mid_script/blob/master/assets/logo.png" />
 </p>
 <p align="center">
-  <img alt="Version : 1.0.0" src="https://img.shields.io/badge/version-1.0.0-green" target="_blank" />
+  <img alt="Version : 1.0.0" src="https://img.shields.io/badge/version-1.1.0-green" target="_blank" />
   <img alt="Python : v3.6.9" src="https://img.shields.io/badge/python-v3.6.9-blue?logo=python&logoColor=white" target="_blank" />
   <a href="https://github.com/wilfriedaugeard/mid_script/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
