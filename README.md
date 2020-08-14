@@ -7,6 +7,9 @@
   <a href="https://github.com/wilfriedaugeard/mid_script/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
+  <a href="https://github.com/wilfriedaugeard/mid_script/commits">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/wilfriedaugeard/mid_script"/>
+  </a>
 </p>
 
 A little script to make a man in the middle attack easily. You will find a console interface to interact with the script to scan the network and choose the target. 
